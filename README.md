@@ -1,6 +1,7 @@
 # estagio-target-sistemas
  teste técnico de programação para estágio em desenvolvimento de software
 
+ para rodar os programas basta clonar o repositório e usar `python <NOME DO ARQUIVO>`
 
 ## ENUNCIADO
 
